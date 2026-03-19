@@ -5,7 +5,9 @@
 ![Linux](https://img.shields.io/badge/platform-Linux-blue)
 ![Wayland](https://img.shields.io/badge/Wayland-compatible-success)
 ![CLI](https://img.shields.io/badge/interface-CLI-black)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![GitHub stars](https://img.shields.io/github/stars/GGTY81/NoIdle?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GGTY81/NoIdle?style=social)
 
 ---
 
@@ -41,7 +43,9 @@ Most existing tools:
 
 1. Monitors mouse activity using:
 
+```
 libinput debug-events
+```
 
 2. Tracks the last real user interaction timestamp
 
@@ -49,7 +53,9 @@ libinput debug-events
 
 - triggers a minimal movement using:
 
+```
 evemu-event
+```
 
 4. Resets the inactivity timer
 
@@ -59,8 +65,10 @@ evemu-event
 
 Install dependencies:
 
+```
 sudo apt update
 sudo apt install evemu-tools libinput-tools
+```
 
 ### 🔧 Dependency Breakdown
 
@@ -75,17 +83,21 @@ sudo apt install evemu-tools libinput-tools
 
 ### Option 1 — Quick Install
 
+```
 git clone https://github.com/GGTY81/noidle.git
 cd noidle
 chmod +x install.sh
 ./install.sh
+```
 
 ---
 
 ### Option 2 — Manual Install
 
+```
 chmod +x noidle.sh
 sudo cp noidle.sh /usr/local/bin/noidle
+```
 
 ---
 
@@ -93,44 +105,58 @@ sudo cp noidle.sh /usr/local/bin/noidle
 
 ### Run in foreground (debug mode)
 
+```
 noidle run --interval 5 --distance 100 -v
+```
 
 ---
 
 ### Run in background
 
+```
 sudo -v
 noidle start --interval 60 --distance 1
+```
 
 ---
 
 ### Toggle (recommended)
 
+```
 noidle toggle --interval 60 --distance 1
+```
 
 ---
 
 ### Stop
 
+```
 noidle stop
+```
 
 ---
 
 ### Status
 
+```
 noidle status
+```
 
 ---
 
 ### List mouse devices
 
+```
 noidle list-devices
+```
 
 ---
 
 ## 🧪 Example
 
+```
 noidle run -i 10 -d 2 -v
+```
 
 This will:
 
@@ -148,7 +174,9 @@ This will:
 
 - To avoid password prompts during execution:
 
+```
 sudo -v
+```
 
 ---
 
@@ -189,4 +217,6 @@ GitHub: https://github.com/GGTY81
 
 ## 📄 License
 
-MIT License
+This project is licensed under the GNU GPL v3 License.
+
+See the LICENSE file for details.
