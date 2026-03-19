@@ -2,13 +2,31 @@
 
 > Keep your Linux session alive — the right way.
 
-![Linux](https://img.shields.io/badge/platform-Linux-blue)
-![Wayland](https://img.shields.io/badge/Wayland-compatible-success)
-![CLI](https://img.shields.io/badge/interface-CLI-black)
-![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:2563eb&text=NoIdle&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Keep%20your%20Linux%20session%20alive&descAlignY=58&animation=fadeIn">
+</p>
 
-![GitHub stars](https://img.shields.io/github/stars/GGTY81/NoIdle?style=social)
-![GitHub forks](https://img.shields.io/github/forks/GGTY81/NoIdle?style=social)
+<div align="center">
+
+<strong>Real input-based inactivity detection for Linux and Wayland.</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/platform-Linux-2ea44f?style=for-the-badge">
+<img src="https://img.shields.io/badge/display-Wayland-5c6ac4?style=for-the-badge">
+<img src="https://img.shields.io/badge/interface-CLI-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge">
+
+<br><br>
+
+<img src="https://img.shields.io/github/stars/GGTY81/NoIdle?style=flat-square">
+<img src="https://img.shields.io/github/forks/GGTY81/NoIdle?style=flat-square">
+<img src="https://img.shields.io/github/issues/GGTY81/NoIdle?style=flat-square">
+<img src="https://img.shields.io/github/license/GGTY81/NoIdle?style=flat-square">
+<img src="https://img.shields.io/github/last-commit/GGTY81/NoIdle?style=flat-square">
+
+</div>
+
 
 ---
 
