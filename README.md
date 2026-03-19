@@ -1,7 +1,3 @@
-# 🚀 NoIdle
-
-> Keep your Linux session alive — the right way.
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:2563eb&text=NoIdle&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Keep%20your%20Linux%20session%20alive&descAlignY=58&animation=fadeIn">
 </p>
