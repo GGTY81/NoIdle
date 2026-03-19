@@ -5,8 +5,7 @@
 ![Linux](https://img.shields.io/badge/platform-Linux-blue)
 ![Wayland](https://img.shields.io/badge/Wayland-compatible-success)
 ![CLI](https://img.shields.io/badge/interface-CLI-black)
-![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)]
-
+![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)
 
 ![GitHub stars](https://img.shields.io/github/stars/GGTY81/NoIdle?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/GGTY81/NoIdle?style=social)
