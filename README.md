@@ -6,6 +6,8 @@
 ![Wayland](https://img.shields.io/badge/Wayland-compatible-success)
 ![CLI](https://img.shields.io/badge/interface-CLI-black)
 ![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
 ![GitHub stars](https://img.shields.io/github/stars/GGTY81/NoIdle?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/GGTY81/NoIdle?style=social)
 
